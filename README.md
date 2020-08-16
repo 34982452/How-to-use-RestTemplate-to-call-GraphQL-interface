@@ -1,4 +1,4 @@
-# How-to-use-RestTemplate-to-call-GraphQL-interface
+# How-to-use-Java-to-call-GraphQL-interface
 
 关于前端如何调用GraphQL接口是很简单的事情，这个网上有大量的教程和文档。
 
