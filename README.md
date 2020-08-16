@@ -67,11 +67,11 @@
                return assetResponse.getData().getAssets() ;
 
          }catch(Exception e){
-            logger.error("call url {}", XXXURL);
+            logger.error("XXXXXXX");
          }
 
       }catch(Exception e){
-         return "";
+         logger.error("XXXXXXX");
       }
 
       return new HashMap<>();
